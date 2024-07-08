@@ -20,5 +20,3 @@ Student@Uet Peshawar | Bsc. Computer Systems Engineering | Ambassador@Microsoft 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Hammad112&icon=9&color=3)](https://visitcount.itsvg.in)
