@@ -1,180 +1,248 @@
-<h1 align="center">Hi 👋, I'm Hammad Nasir</h1>
-<h3 align="center">Python Developer · AI/ML Engineer · Full Stack Builder</h3>
+<!-- ██████████████████████ HEADER ██████████████████████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hammad%20Nasir&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=⚡%20AI%20Engineer%20·%20Python%20Developer%20·%20Full%20Stack%20Builder%20⚡&descAlignY=62&descAlign=50&descSize=20&descColor=a8d8f0"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+Cplusoft;AI+%2F+ML+Engineer;Full+Stack+Python+Developer;LLM+%7C+NLP+%7C+Computer+Vision;Cloud+%7C+AWS+%7C+Azure+%7C+Docker;Ambassador+%40+Microsoft" alt="Typing SVG" />
-</p>
+<!-- ████████████████████ TYPING SVG ████████████████████ -->
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hammad-nasir-6a671b1ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@hammadnasir797">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="mailto:hammadnasir797@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=52&lines=🤖+Software+Engineer+%40+Cplusoft%2C+Islamabad;⚡+LLM+|+NLP+|+Computer+Vision+|+Fine-Tuning;🌐+Django+·+FastAPI+·+Next.js+·+Docker;☁️+AWS+·+Azure+·+Digital+Ocean+·+MLOps;🔬+Built+200%2B+scrapers+processing+1000s+of+articles%2Fday;🏅+Microsoft+Ambassador+·+Meta+Certified" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🚀 About Me
+<!-- ██████████████ SOCIAL + BADGE ROW ██████████████ -->
+<a href="https://www.linkedin.com/in/hammad-nasir-6a671b1ba/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://medium.com/@hammadnasir797">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="mailto:hammadnasir797@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 🏢 **Software Engineer @ [Cplusoft](https://cplusoft.com)** — Building NLP/AI systems, full-stack apps & data pipelines on AWS & Azure
-- 🎓 **BSc. Computer Systems Engineering** — University of Engineering & Technology, Peshawar (2021–2025)
-- 🤝 **Microsoft Student Ambassador** — Representing Microsoft's tech ecosystem on campus
-- 🏅 **Meta Certified** — Frontend Developer (Coursera)
-- 🔭 Currently working on **LLM-powered products, cloud-deployed AI pipelines & automation systems**
-- 🌱 Always exploring: **Agentic AI · RAG · Fine-tuning · MLOps**
-- 📍 Based in **Islamabad, Pakistan**
+<br/><br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Hammad112&label=👁%20Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
+<img src="https://img.shields.io/github/followers/Hammad112?label=✦+Followers&style=for-the-badge&color=0d1117&labelColor=7c3aed" />
 
-## 💼 Experience
+</div>
 
-| Role | Company | Period |
-|------|---------|--------|
-| 🧠 Software Engineer | Cplusoft, Islamabad | Aug 2025 – Present |
-| 🤖 AI Intern | Bave Technologies, Peshawar | Jul 2024 – Sep 2024 |
+<!-- ██████████████████ ANIMATED SEPARATOR ██████████████████ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<!-- ████████████████ PYTHON CLASS BIO ████████████████ -->
+## 🧬 `whoami`
 
-## 🛠️ Tech Stack
+```python
+# 🤖 Loading Hammad.exe ...  ████████████████████ 100%
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+class HammadNasir:
 
-### 🤖 AI / ML / NLP
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
+    name      = "Hammad Nasir"
+    role      = "⚡ Software Engineer @ Cplusoft · AI/ML Engineer"
+    education = "🎓 BSc. Computer Systems Engineering — UET Peshawar (2021–2025)"
+    location  = "📍 Islamabad, Pakistan 🇵🇰"
+    badges    = ["🏅 Microsoft Student Ambassador", "✅ Meta Certified Frontend Dev"]
 
-### ⚙️ Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+    expertise = {
+        "AI / ML"    : ["LLMs", "NLP", "Computer Vision", "Fine-Tuning", "RAG", "Agents"],
+        "Backend"    : ["Python", "Django", "FastAPI", "Flask", "Streamlit"],
+        "Frontend"   : ["React", "Next.js", "Redux", "Tailwind"],
+        "Databases"  : ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
+        "Cloud"      : ["AWS EC2 / RDS / S3", "Azure", "Docker", "Digital Ocean"],
+        "Tools"      : ["Git", "n8n", "Dagshub", "Playwright", "FFmpeg", "Tesseract"]
+    }
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white)
+    currently = {
+        "working_on" : "🔭 LLM-powered platforms · NLP pipelines · Cloud automation",
+        "learning"   : "🌱 Agentic AI · RAG systems · MLOps at scale",
+        "highlight"  : "🚀 Built 200+ scrapers processing thousands of articles daily",
+        "fun_fact"   : "⚡ I make AI do things people said couldn't be automated 😄"
+    }
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
+if __name__ == "__main__":
+    me = HammadNasir()
+    print(f"Hey there! I'm {me.name} 👋")
+    # Output: Hey there! I'm Hammad Nasir 👋
+```
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+<!-- ████████████████████ TECH STACK ████████████████████ -->
+## 🛠️ Tech Arsenal
 
-## 🌟 Featured Projects
+<div align="center">
+
+**🐍 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css&theme=dark&perline=6" />
+
+<br/>
+
+**🤖 AI · ML · Data Science**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark&perline=6" />
+
+<br/>
+
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs&theme=dark&perline=6" />
+
+<br/>
+
+**🎨 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind&theme=dark&perline=6" />
+
+<br/>
+
+**🗄️ Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=6" />
+
+<br/>
+
+**☁️ Cloud · DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux&theme=dark&perline=6" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ████████████████████ PROJECTS ████████████████████ -->
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🗞️ AI-Powered News Platform
-> Django · Next.js · Redux · PostgreSQL (AWS RDS) · OpenAI GPT · Docker · AWS EC2 · Redis
+> `Django` `Next.js` `Redux` `PostgreSQL (AWS RDS)` `OpenAI GPT` `Docker` `AWS EC2` `Redis`
 
-- Built **200+ web scrapers** with Redis-based deduplication processing thousands of articles daily
-- Integrated **OpenAI GPT** for content regeneration, AI image generation & bilingual translation (EN/ES)
-- Deployed on **AWS EC2 with auto-scaling**, achieving **<500ms response times** across devices
+- 🕷️ Built **200+ web scrapers** with Redis deduplication processing **1000s of articles daily**
+- 🤖 Integrated **OpenAI GPT** for content regeneration, image generation & bilingual EN/ES translation
+- ⚡ Dockerized on **AWS EC2 with auto-scaling**, achieving **< 500ms response times**
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🤖 Healix – AI-Powered Medical Chatbot
-> Gemini · Tavily · Whisper · Tesseract OCR · FastAPI
+### 🏥 Healix – AI Medical Chatbot
+> `Gemini` `Tavily` `Whisper` `Tesseract OCR` `FastAPI`
 
-- Combined **Gemini knowledge base + Tavily web search** for accurate, context-aware medical responses
-- Implemented **multimodal capabilities**: speech-to-text, text-to-speech & PDF scraping with OCR
-- Aggregated results across **20+ trusted medical websites** via authenticated search pipelines
+- 🔍 Combines **Gemini LLM + Tavily web search** for accurate, context-aware medical answers
+- 🌐 Aggregates results across **20+ trusted medical websites** via authenticated pipelines
+- 🎙️ Multimodal: **speech-to-text, text-to-speech** & **PDF scraping with OCR**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📝 Automated Meeting Notetaker
-> Playwright · Gmail/Outlook · FFmpeg · AWS S3
+> `Playwright` `Gmail/Outlook` `FFmpeg` `AWS S3`
 
-- Built a bot to **auto-join Google Meet & Microsoft Teams** via Playwright automation
-- Implemented **multi-lingual caption extraction** with synchronized audio/video recording using FFmpeg
-- End-to-end automation: guest handling → meeting recording → post-processing → **AWS S3 storage**
+- 🤖 **Playwright bot** auto-joins scheduled **Google Meet & Microsoft Teams** meetings
+- 🌍 Multi-lingual caption extraction + synchronized **audio/video recording via FFmpeg**
+- ☁️ End-to-end automation → guest handling → recording → **AWS S3 storage**
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🎨 AI Image Generation System
-> SDXL · LoRA · Real-ESRGAN · n8n · Leonardo AI
+> `SDXL` `LoRA` `Real-ESRGAN` `n8n` `Leonardo AI`
 
-- Fine-tuned **SDXL with LoRA** for 20 epochs, improving domain-specific image quality & efficiency
-- Applied **Real-ESRGAN upscaling** for high-resolution, visually consistent outputs
-- Designed **n8n automation pipelines** connecting frontend to AI image generation workflows
+- 🔧 Fine-tuned **SDXL with LoRA** for 20 epochs for domain-specific image quality
+- 🖼️ Applied **Real-ESRGAN upscaling** for high-res, visually consistent outputs
+- ⚡ Designed **n8n automation pipelines** connecting frontend to AI generation tools
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 📄 Text Summarization (PEGASUS Fine-Tuning)
-> HuggingFace · PEGASUS · ROUGE Metrics · Samsum Dataset
+### 📄 PEGASUS Text Summarization
+> `HuggingFace` `PEGASUS` `ROUGE Metrics` `Samsum Dataset`
 
-- Fine-tuned **google/pegasus-cnn_dailymail** on the Samsum conversational dataset
-- Evaluated performance using **ROUGE metrics** to benchmark summarization quality
+- ✂️ Fine-tuned **google/pegasus-cnn_dailymail** on conversational Samsum data
+- 📊 Evaluated with **ROUGE metrics** to benchmark summarization quality
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🎙️ Vocaltones – Voice-Based Web Platform
-> XTTS v2 · FastAPI · React · LLM
+### 🎙️ Vocaltones – Voice Web Platform
+> `XTTS v2` `FastAPI` `React` `LLM`
 
-- Built a multilingual platform with **TTS, STT, real-time voice modulation & LLM-powered Q&A**
-- Delivered a responsive frontend with a **FastAPI backend** for seamless cross-device interaction
+- 🌐 Multilingual platform: **TTS, STT, real-time voice modulation & LLM-powered Q&A**
+- 📱 Responsive frontend with **FastAPI backend** for seamless cross-device interaction
 
----
+</td>
+</tr>
+</table>
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Hammad112&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
+<!-- ████████████████████ STATS ████████████████████ -->
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad112&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad112&theme=highcontrast&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad112&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hammad112&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=false&border_color=00d4ff&title_color=00d4ff&icon_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad112&layout=compact&langs_count=8&theme=tokyonight&border_color=00d4ff&title_color=00d4ff"/>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad112&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" />
+
+</div>
+
+<!-- ████████████████ ACTIVITY GRAPH ████████████████ -->
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad112&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=7c3aed&point=ff6b6b&area=true&hide_border=false&custom_title=Hammad's%20Contribution%20Graph"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ████████████████████ TROPHIES ████████████████████ -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Hammad112&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&row=2&column=4"/>
+</div>
+
+<!-- ████████████████████ CERTS ████████████████████ -->
 ## 🎓 Certifications
 
-| Certificate | Issuer |
-|------------|--------|
+<div align="center">
+
+| 🏅 Certificate | 🏛️ Issuer |
+|:---|:---|
 | 📊 Data Science & AI | Atomcamp |
 | 🧠 Deep Learning & Neural Networks | LinkedIn Learning |
 | 🤖 Machine Learning with Python: Foundations | LinkedIn Learning |
-| 🏅 Meta Frontend Developer | Coursera |
+| 🌐 Meta Frontend Developer | Coursera |
 
----
+</div>
+
+<!-- ████████████████████ DEV QUOTE ████████████████████ -->
+<div align="center">
 
 ### ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hammad112&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  💬 Open to collaborating on AI/ML projects, LLM applications & full-stack systems!
-</p>
+<!-- ████████████████████ FOOTER ████████████████████ -->
+<div align="center">
+
+💬 *Open to collaborating on AI/ML projects, LLM applications & full-stack systems!*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling&fontColor=00d4ff"/>
