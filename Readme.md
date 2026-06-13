@@ -1,12 +1,10 @@
 <!-- ██████████████████████ HEADER ██████████████████████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hammad%20Nasir&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=⚡%20AI%20Engineer%20·%20Python%20Developer%20·%20Full%20Stack%20Builder%20⚡&descAlignY=62&descAlign=50&descSize=20&descColor=a8d8f0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Hammad%20Nasir&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Python%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=62&descAlign=50&descSize=20&descColor=a8d8f0"/>
 
 <!-- ████████████████████ TYPING SVG ████████████████████ -->
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=52&lines=🤖+Software+Engineer+%40+Cplusoft%2C+Islamabad;⚡+LLM+|+NLP+|+Computer+Vision+|+Fine-Tuning;🌐+Django+·+FastAPI+·+Next.js+·+Docker;☁️+AWS+·+Azure+·+Digital+Ocean+·+MLOps;🔬+Built+200%2B+scrapers+processing+1000s+of+articles%2Fday;🏅+Microsoft+Ambassador+·+Meta+Certified" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Software+Engineer+%40+Cplusoft%2C+Islamabad;LLM+%7C+NLP+%7C+Computer+Vision+%7C+Fine-Tuning;Django+%7C+FastAPI+%7C+Next.js+%7C+Docker;AWS+%7C+Azure+%7C+Digital+Ocean+%7C+MLOps;200%2B+Scrapers+Processing+1000s+of+Articles%2FDay;Microsoft+Ambassador+%7C+Meta+Certified" alt="Typing SVG" />
 
 <br/>
 
@@ -23,8 +21,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hammad112&label=👁%20Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
-<img src="https://img.shields.io/github/followers/Hammad112?label=✦+Followers&style=for-the-badge&color=0d1117&labelColor=7c3aed" />
+<img src="https://komarev.com/ghpvc/?username=Hammad112&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
+<img src="https://img.shields.io/github/followers/Hammad112?label=Followers&style=for-the-badge&color=0d1117&labelColor=7c3aed" />
 
 </div>
 
