@@ -4,7 +4,7 @@
 <!-- ████████████████████ TYPING SVG ████████████████████ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Software+Engineer+%40+Hum Network Limited%2C+Islamabad;LLM+%7C+NLP+%7C+Computer+Vision+%7C+Fine-Tuning;Django+%7C+FastAPI+%7C+Next.js+%7C+Docker;AWS+%7C+Azure+%7C+Digital+Ocean+%7C+MLOps;200%2B+Scrapers+Processing+1000s+of+Articles%2FDay;Microsoft+Ambassador+%7C+Meta+Certified" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=Software+Engineer+%40+HNL%2C+Islamabad;LLM+%7C+NLP+%7C+Computer+Vision+%7C+Fine-Tuning;Django+%7C+FastAPI+%7C+Next.js+%7C+Docker;AWS+%7C+Azure+%7C+Digital+Ocean+%7C+MLOps;200%2B+Scrapers+Processing+1000s+of+Articles%2FDay;Microsoft+Ambassador+%7C+Meta+Certified" alt="Typing SVG" />
 
 <br/>
 
